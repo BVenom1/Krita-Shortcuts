@@ -1,3 +1,3 @@
-from .extension_template import ExtensionTemplate
+from .shortcuts import Shortcuts
 
-Krita.instance().addExtension(ExtensionTemplate(Krita.instance()))
+Krita.instance().addExtension(Shortcuts(Krita.instance()))
