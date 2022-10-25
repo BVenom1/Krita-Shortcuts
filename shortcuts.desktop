@@ -4,5 +4,5 @@ ServiceTypes=Krita/PythonPlugin
 X-KDE-Library=shortcuts
 X-Python-2-Compatible=false
 X-Krita-Manual=Manual.html
-Name=extension_template
-Comment=Getting an extension set up
+Name=BVenom's Shortcuts Extension
+Comment=Extension to set up scrolling shortcuts
